@@ -48,5 +48,6 @@
   "prettier": "@quilted/prettier",
   "stylelint": {
     "extends": "@quilted/stylelint-config"
-  }
+  },
+  "packageManager": "pnpm@8.2.0"
 }
